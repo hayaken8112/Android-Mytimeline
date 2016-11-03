@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#34495e</color>
+    <color name="colorPrimaryDark">#2c3e50</color>
+    <color name="colorAccent">#f1c40f</color>
+    <color name="list_item_unread">#ecf0f1</color>
+    <color name="list_item_read">#bdc3c7</color>
+    <color name="list_item_important">#FF7364</color>
+    <color name="listView_background">#bdc3c7</color>
+    <color name="listView_divider">#ecf0f1</color>
+</resources>
